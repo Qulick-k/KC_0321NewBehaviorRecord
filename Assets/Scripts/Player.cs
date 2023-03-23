@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class Player : NetworkBehaviour, IKitchenObjectParent {
 
-    [SerializeField]
     public static event EventHandler OnAnyPlayerSpawned;
     public static event EventHandler OnAnyPickedSomething;
 
