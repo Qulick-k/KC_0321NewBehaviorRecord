@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74e23e5c6341a284a9e9991167f660fe
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 815c8ef6b8665fe48ab45af2997f73aa, type: 2}
+  _fileAsset: {fileID: 6013892654665635331, guid: 74e23e5c6341a284a9e9991167f660fe,
+    type: 3}
+  _assetPath: Assets/_Assets/Textures/challenge_water_foam_v2 1.sbsar
