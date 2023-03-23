@@ -8,6 +8,7 @@ public class Player : NetworkBehaviour, IKitchenObjectParent {
 
     // [SerializeField]
     //[se]
+    public int sss ;
     public static event EventHandler OnAnyPlayerSpawned;
     public static event EventHandler OnAnyPickedSomething;
 
